@@ -1,0 +1,122 @@
+[
+  {
+    "journey": "history",
+    "tagKey": "modern_era",
+    "minItems": 6,
+    "difficultyHint": "medium",
+    "titleHe": "העת החדשה",
+    "titleEn": "Modern Era"
+  },
+  {
+    "journey": "history",
+    "tagKey": "france",
+    "minItems": 6,
+    "difficultyHint": "medium",
+    "titleHe": "צרפת",
+    "titleEn": "France"
+  },
+  {
+    "journey": "history",
+    "tagKey": "leaders",
+    "minItems": 8,
+    "difficultyHint": "easy",
+    "titleHe": "מנהיגים",
+    "titleEn": "Leaders"
+  },
+  {
+    "journey": "history",
+    "tagKey": "revolutions",
+    "minItems": 8,
+    "difficultyHint": "medium",
+    "titleHe": "מהפכות",
+    "titleEn": "Revolution"
+  },
+  {
+    "journey": "history",
+    "tagKey": "generals",
+    "minItems": 4,
+    "difficultyHint": "hard",
+    "titleHe": "מצביאים",
+    "titleEn": "Generals"
+  },
+  {
+    "journey": "history",
+    "tagKey": "middle_ages",
+    "minItems": 6,
+    "difficultyHint": "medium",
+    "titleHe": "ימי הביניים",
+    "titleEn": "Dark Ages"
+  },
+  {
+    "journey": "history",
+    "tagKey": "jewish",
+    "minItems": 4,
+    "difficultyHint": "medium",
+    "titleHe": "יהדות",
+    "titleEn": "Jewish"
+  },
+  {
+    "journey": "history",
+    "tagKey": "israel",
+    "minItems": 6,
+    "difficultyHint": "easy",
+    "titleHe": "ישראל",
+    "titleEn": "Israel"
+  },
+  {
+    "journey": "history",
+    "tagKey": "inventions",
+    "minItems": 8,
+    "difficultyHint": "easy",
+    "titleHe": "המצאות",
+    "titleEn": "Inventions"
+  },
+  {
+    "journey": "history",
+    "tagKey": "artists",
+    "minItems": 4,
+    "difficultyHint": "easy",
+    "titleHe": "אומנים",
+    "titleEn": "Artists"
+  },
+  {
+    "journey": "history",
+    "tagKey": "scientists",
+    "minItems": 8,
+    "difficultyHint": "medium",
+    "titleHe": "מדענים",
+    "titleEn": "Scientists"
+  },
+  {
+    "journey": "history",
+    "tagKey": "philosophers",
+    "minItems": 8,
+    "difficultyHint": "hard",
+    "titleHe": "פילוסופים",
+    "titleEn": "Philosophers"
+  },
+  {
+    "journey": "history",
+    "tagKey": "inventors",
+    "minItems": 4,
+    "difficultyHint": "medium",
+    "titleHe": "ממציאים",
+    "titleEn": "Inventors"
+  },
+  {
+    "journey": "history",
+    "tagKey": "literature",
+    "minItems": 4,
+    "difficultyHint": "medium",
+    "titleHe": "ספרות",
+    "titleEn": "Literature"
+  },
+  {
+    "journey": "history",
+    "tagKey": "writers",
+    "minItems": 4,
+    "difficultyHint": "medium",
+    "titleHe": "סופרים",
+    "titleEn": "Writers"
+  }
+]

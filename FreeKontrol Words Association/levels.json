@@ -1,0 +1,121 @@
+[
+  {
+    "journey": "history",
+    "difficulty": "easy",
+    "baseMoves": 30,
+    "categories": [
+      { "key": "people", "title": "אישים" },
+      { "key": "events", "title": "אירועים" }
+    ],
+    "items": [
+      {
+        "content": { "type": "word", "value": "נפוליאון" },
+        "categoryKey": "people"
+      },
+      {
+        "content": { "type": "word", "value": "גלילאו" },
+        "categoryKey": "people"
+      },
+      {
+        "content": { "type": "word", "value": "לואי ה-14" },
+        "categoryKey": "people"
+      },
+      {
+        "content": { "type": "word", "value": "ביסמרק" },
+        "categoryKey": "people"
+      },
+      {
+        "content": { "type": "word", "value": "צ׳רצ׳יל" },
+        "categoryKey": "people"
+      },
+      {
+        "content": { "type": "word", "value": "הרצל" },
+        "categoryKey": "people"
+      },
+      {
+        "content": { "type": "word", "value": "הנחיתה על הירח" },
+        "categoryKey": "events"
+      },
+      {
+        "content": { "type": "word", "value": "מלחמת העולם הראשונה" },
+        "categoryKey": "events"
+      },
+      {
+        "content": { "type": "word", "value": "מלחמת ששת הימים" },
+        "categoryKey": "events"
+      },
+      {
+        "content": { "type": "word", "value": "שלום" },
+        "categoryKey": "events"
+      },
+      {
+        "content": { "type": "word", "value": "המהפכה הצרפתית" },
+        "categoryKey": "events"
+      }
+    ]
+  },
+  {
+    "journey": "nature",
+    "difficulty": "easy",
+    "baseMoves": 30,
+    "categories": [
+      { "key": "land", "title": "חיות יבשה" },
+      { "key": "sea", "title": "חיות ים" }
+    ],
+    "items": [
+      {
+        "content": { "type": "word", "value": "כלב" },
+        "categoryKey": "land"
+      },
+      {
+        "content": { "type": "word", "value": "אריה" },
+        "categoryKey": "land"
+      },
+      {
+        "content": { "type": "word", "value": "דג זהב" },
+        "categoryKey": "sea"
+      },
+      {
+        "content": { "type": "word", "value": "דולפין" },
+        "categoryKey": "sea"
+      }
+    ]
+  },
+  {
+    "journey": "movies",
+    "difficulty": "medium",
+    "baseMoves": 20,
+    "categories": [
+      { "key": "action", "title": "אקשן" },
+      { "key": "comedy", "title": "קומדיה" },
+      { "key": "animation", "title": "אנימציה" }
+    ],
+    "items": [
+      {
+        "content": { "type": "word", "value": "שר הטבעות" },
+        "categoryKey": "action"
+      },
+      {
+        "content": { "type": "word", "value": "הנוקמים" },
+        "categoryKey": "action"
+      },
+      {
+        "content": { "type": "word", "value": "אלפ בית גמא" },
+        "categoryKey": "comedy"
+      },
+      {
+        "content": { "type": "word", "value": "המסע אל הצחוק" },
+        "categoryKey": "comedy"
+      },
+      {
+        "content": { "type": "word", "value": "צעצוע של סיפור" },
+        "categoryKey": "animation"
+      },
+      {
+        "content": { "type": "word", "value": "לשבור את הקרח" },
+        "categoryKey": "animation"
+      }
+    ]
+  }
+]
+
